@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Litany Button",
-  "version": "1.1",
+  "version": "1.2",
   "description": "Displays Bene Gesserit litanies from Dune.",
   "action": {
     "default_popup": "menu.html",
