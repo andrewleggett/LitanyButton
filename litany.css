@@ -31,3 +31,10 @@ p {
   line-height: 1.5;
   text-align: left;
 }
+
+.attribution {
+  font-size: 10px;
+  color: #b0b0b0;
+  margin-top: 20px;
+  text-align: right;
+}
